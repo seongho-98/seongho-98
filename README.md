@@ -22,7 +22,9 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongho-98&theme=dracula)](https://github.com/seongho-98/github-readme-stats)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gktjdgh98)](https://solved.ac/gktjdgh98/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongho-98&theme=dracula)](https://github.com/seongho-98/github-readme-stats)
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktjdgh98"/>
+
 
 <!-- 수상내역 start -->
 <div>
